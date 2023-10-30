@@ -1,3 +1,24 @@
+## About Sketchbook Application
+
+
+Description:
+This innovative online platform seamlessly combines the power of Next.js, Canvas API, and Socket.IO to create a dynamic and collaborative sketchbook experience like no other.
+
+An interactive digital sketchbook built with Next.js and Socket.io. Create your art, and download your masterpieces. Perfect for artists of all levels.
+
+Features:
+
+* Real-time drawing 
+* Seamless integration of Socket.io for live sharing and interaction
+
+Here is how it looks
+
+![image](https://github.com/rohitbisht01/sketchbook/assets/70256801/7d6a5bf4-6002-49b6-9c53-21418ffe0450)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
